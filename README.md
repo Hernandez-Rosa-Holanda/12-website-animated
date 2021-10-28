@@ -3,7 +3,7 @@
 
   <h3>Animated website</h3> 
   <p>
-    Exercitando minhas habilidades em animação com CSS Css e JS.
+    Exercitando minhas habilidades em animação com CSS e JS.
   </p>
 <h2>Layout</h2>
   <p>
