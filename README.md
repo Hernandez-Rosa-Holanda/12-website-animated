@@ -7,7 +7,7 @@
   </p>
 <h2>Layout</h2>
   <p>
-    <img src="https://user-images.githubusercontent.com/82759865/139170033-f61700f8-9dd6-4501-9607-a1ff1694706b.gif"/>
+    <img src="https://user-images.githubusercontent.com/82759865/139171526-da9f261c-8b06-4c9b-8f95-27dded6824ef.gif"/>
   </p>
 
 <h2>Tecnologias utilizadas</h2>
