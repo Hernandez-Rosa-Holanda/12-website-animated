@@ -3,7 +3,8 @@
 
   <h3>Animated website</h3> 
   <p>
-    Exercitando minhas habilidades em animação com CSS e JS.
+    Solução com Animação em JavaScript e CSS para Website
+    <br>https://12-website-animated.vercel.app/</br>
   </p>
 <h2>Layout</h2>
   <p>
